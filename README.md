@@ -54,8 +54,8 @@ Driven by a relentless curiosity for technical architecture and an uncompromisin
 I am seeking global, **async-first remote opportunities** where I can apply my blend of meticulous risk mitigation, strict self-discipline, and defensive engineering to secure modern tech stacks without operational overhead.
 
 - **GitHub Manifesto**: [Integrity‑Driven Security Repository](https://github.com/Code-Integrity/my-philosophy-integrity-driven-security)
-- **HackerOne Profile**: `[https://hackerone.com/code_integrity]`
-- **LinkedIn Profile**: `[https://www.linkedin.com/in/haruna-takahashi-9a2723436]`
+- **HackerOne Profile**: https://hackerone.com/code_integrity
+- **LinkedIn Profile**: https://www.linkedin.com/in/haruna-takahashi-9a2723436
 
 ---
 
