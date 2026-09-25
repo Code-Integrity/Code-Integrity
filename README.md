@@ -59,4 +59,4 @@ I am seeking global, **async-first remote opportunities** where I can apply my b
 
 ---
 
-_All commits across my repositories are cryptographically signed and verified using secure SSH signing keys._ [![Verified Badges](https://shields.io)](https://github.com)
+_All commits across my repositories are cryptographically signed and verified using secure SSH signing keys._ [![Verified Badges](https://img.shields.io/badge/Verified-pass-2ea44f?logo=github)](https://github.com)
