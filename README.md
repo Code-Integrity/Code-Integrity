@@ -50,8 +50,6 @@ Driven by a relentless curiosity for technical architecture, I pivot into softwa
 
 For security research verifications, vulnerability disclosure history, and direct outreach, please visit my official profile:
 
-👉 [**HackerOne Profile**](https://hackerone.com/code_integrity)
-
 ---
 
 _All commits across my repositories are cryptographically signed and verified using secure SSH signing keys._ [![Verified Badges](https://img.shields.io/badge/Verified-pass-2ea44f?logo=github)](https://github.com)
